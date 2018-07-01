@@ -11,6 +11,7 @@
   "dependencies": {
     "apollo-boost": "^0.1.10",
     "aws-serverless-express": "^3.2.0",
+    "babel-plugin-recharts": "^1.1.1",
     "emotion": "^9.2.4",
     "express": "^4.16.3",
     "graphql": "^0.13.2",
@@ -23,6 +24,7 @@
     "react-emotion": "^9.2.4",
     "react-helmet-async": "^0.1.0-alpha",
     "react-media": "^1.8.0",
-    "react-router-dom": "^4.3.1"
+    "react-router-dom": "^4.3.1",
+    "recharts": "^1.0.0-beta.10"
   }
 }
